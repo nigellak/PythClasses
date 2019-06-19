@@ -1,5 +1,6 @@
 
 # classes,objects,instances
+# classes should have functions
 
 class Nigella:
     pass
