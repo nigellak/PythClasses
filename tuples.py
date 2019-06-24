@@ -7,3 +7,5 @@ print(names[1:3])
 print(names[1:3+1])
 print(names*2)
 
+# accepts name and salary from input of user, details of employees
+# Finally display the total count of employees
